@@ -1,11 +1,12 @@
 # lion_company
 A WordPress Website for Logistics company that offers a variety of services, including air freight, ocean freight, and road freight.
-•	we used Astra theme and customized it to develop our website.
-• Useing Elementor and Elementor pro plugins to customize and enhance the theme.
-•Creating the contact us form with WPForms plugin.
-# Home Page
+
+*	we used Astra theme and customized it to develop our website.
+* Useing Elementor and Elementor pro plugins to customize and enhance the theme.
+* Creating the contact us form with WPForms plugin.
+# Home_Page
 ![Home 1](https://github.com/ayasaid242000/lion_company/assets/118894683/a1b76bad-8839-4715-9932-66a382fc6f5a)
-![Home 2](https://github.com/ayasaid242000/lion_company/assets/118894683/1e68642f-d2ea-4ac7-b6b7-c251b12804e0
+![Home 2](https://github.com/ayasaid242000/lion_company/assets/118894683/da13c364-bf2b-40ae-918c-0711019abcb0)
 ![Home 3](https://github.com/ayasaid242000/lion_company/assets/118894683/b32dd361-8b0b-42bd-b005-f2956009501d)
 # Our Services
 ![Our services](https://github.com/ayasaid242000/lion_company/assets/118894683/142f4bc4-78c6-4b97-98c5-a10e97091c7d)
